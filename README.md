@@ -1,24 +1,10 @@
 # 👩🏻‍💻 Leonardo Dupont Dias
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor de Sistemas | Automação & Integrações`**
 
 Me chamo Leonardo Dupont Dias, tenho 18 anos e sou natural de Taubaté, São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFSP. 
 
-<p align="left">
-    <a href="https://www.youtube.com/@LeonardoDupontDias?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
-    <a href="https://www.youtube.com/@LeonardoDupontDias">
-        <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
-    </a> 
+<!--<p align="left">
     <a href="https://github.com/LeonardoDupontDias?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -34,7 +20,7 @@ Me chamo Leonardo Dupont Dias, tenho 18 anos e sou natural de Taubaté, São Pau
         />
     </a>
 </p>
-
+!-->
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -65,19 +51,19 @@ Me chamo Leonardo Dupont Dias, tenho 18 anos e sou natural de Taubaté, São Pau
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
     alt="PHP" 
     title="PHP"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 <img 
     align="left" 
@@ -87,8 +73,15 @@ Me chamo Leonardo Dupont Dias, tenho 18 anos e sou natural de Taubaté, São Pau
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
-
+<img 
+    align="left" 
+    alt="n8n" 
+    title="n8n"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/fb575449-4959-4376-8d34-491b2162fe6d" 
+/>   
+    
 <br/>
 <br/>
 
