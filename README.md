@@ -4,23 +4,8 @@
 
 Me chamo Leonardo Dupont Dias, tenho 18 anos e sou natural de Taubaté, São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFSP. 
 
-<!--<p align="left">
-    <a href="https://github.com/LeonardoDupontDias?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/LeonardoDupontDias?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/LeonardoDupontDias?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/LeonardoDupontDias?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-!-->
+
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
