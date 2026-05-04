@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Sistemas | Automação & Integrações`**
 
-Me chamo Leonardo Dupont Dias, tenho 18 anos e sou natural de Taubaté, São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFSP. 
+Me chamo Leonardo Dupont Dias, tenho 18 anos e sou natural de Taubaté, São Paulo. Concluí o ensino médio na ETEC, com o curso de técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFSP. 
 
 
 
